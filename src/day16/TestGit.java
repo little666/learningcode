@@ -9,5 +9,5 @@ package day16;
  * 
  */
 public class TestGit {
-
+	private String name;
 }
