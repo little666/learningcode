@@ -10,5 +10,6 @@ package day16;
  */
 public class testpush {
 
-	public String push2;
+	public String push;
+
 }
